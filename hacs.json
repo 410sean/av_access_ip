@@ -1,0 +1,5 @@
+{
+  "name": "AV Access HDMI over IP",
+  "domains": ["media_player"],
+  "render_readme": true
+}
